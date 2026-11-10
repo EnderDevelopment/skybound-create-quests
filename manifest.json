@@ -1,0 +1,12 @@
+{
+  "name": "Aeronautics Workshop",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "confirmed_addons": [],
+  "verification": {
+    "status": "unverified",
+    "reason": "Official release metadata could not be retrieved during verification. No addon is included as confirmed without a release explicitly listing both Minecraft 1.21.1 and NeoForge.",
+    "checked": [],
+    "checked_at": "2026-07-19"
+  }
+}
